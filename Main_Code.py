@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug  5 16:27:31 2021
- 
-Here, debt to equity ratio is also included in the calculation. 
 
 @author: Harry Lipscomb
 """
